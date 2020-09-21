@@ -3,6 +3,7 @@ section {
     vertical-align: top;
     width: 70%;
     margin-right: 24px;
+    padding-top: 25px;25p
 }
 
 .cover {
@@ -29,6 +30,8 @@ aside {
     box-sizing: border-box;
     border-radius: 8px;
     box-shadow: 0 2px 5px #aaa;
+    padding-top: 25px;
+    margin-top: 25px;
 }
 h1 {
     color: 'blue';
