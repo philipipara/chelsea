@@ -3,7 +3,7 @@ section {
     vertical-align: top;
     width: 70%;
     margin-right: 24px;
-    padding-top: 25px;25p
+    padding-top: 25px;
 }
 
 .cover {
@@ -41,10 +41,6 @@ p {
     color: blue;
 }
 
-/* .player-img {
-    height: 150px;
-    width: 150px;
-} */
 
 .player-wrapper {
     width: 100%;
@@ -82,5 +78,23 @@ p {
         box-shadow: 0;
         box-sizing: 0;
     }
+
+    h5 {
+        display: block;
+        font-size: 15px;
+        width: 100%;
+    }
    
+}
+
+h5 {
+    display: block;
+    font-size: 40px;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    color: white;
+    
 }
