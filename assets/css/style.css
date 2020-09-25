@@ -19,12 +19,17 @@ section {
 main {
     padding: 2% 8%;
     text-align: center;
-    margin: 16px;
     background-color: lightblue;
     padding: 16px;
     box-sizing: border-box;
-    border-radius: 8px;
+    
+    
+    
    
+}
+
+#sponsors {
+    padding-top: 15px;
 }
 
 aside {
@@ -38,6 +43,11 @@ aside {
     box-shadow: 0 2px 5px #aaa;
     padding-top: 25px;
     margin-top: 25px;
+}
+
+aside p {
+    
+    padding-top: 15px;
 }
 h1 {
     color: 'blue';
