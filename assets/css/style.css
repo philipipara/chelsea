@@ -22,11 +22,9 @@ main {
     background-color: lightblue;
     padding: 16px;
     box-sizing: border-box;
-    
-    
-    
-   
 }
+
+
 
 #sponsors {
     padding-top: 15px;
@@ -57,6 +55,33 @@ p {
     color: blue;
 }
 
+.ham {
+    color: #7A263A;
+}
+
+.spurs {
+    color: #132257;
+}
+
+.wolves {
+   color: #FBEE23;
+}
+
+.city {
+    color: #6CABDD;
+}
+
+#menu {
+    padding-top: 5px;
+    color: blue;
+}
+
+.matches {
+    width: 100%;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px #aaa;
+}
 
 h5 {
     display: block;
