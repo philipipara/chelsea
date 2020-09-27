@@ -24,10 +24,17 @@ main {
     box-sizing: border-box;
 }
 
+#squad {
+    box-shadow: 0 2px 5px #aaa;
+}
 
+.player-img {
+    box-shadow: 0 2px 5px #aaa;
+}
 
 #sponsors {
     padding-top: 15px;
+    /* box-shadow: 0 2px 5px #aaa; */
 }
 
 aside {
